@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\month kalendar kontrola\month kalendar kontrola\bin\Debug\month kalendar kontrola.exe.config
+C:\Users\sebas\source\repos\month kalendar kontrola\month kalendar kontrola\bin\Debug\month kalendar kontrola.exe
+C:\Users\sebas\source\repos\month kalendar kontrola\month kalendar kontrola\bin\Debug\month kalendar kontrola.pdb
+C:\Users\sebas\source\repos\month kalendar kontrola\month kalendar kontrola\obj\Debug\month kalendar kontrola.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\month kalendar kontrola\month kalendar kontrola\obj\Debug\month_kalendar_kontrola.Form1.resources
+C:\Users\sebas\source\repos\month kalendar kontrola\month kalendar kontrola\obj\Debug\month_kalendar_kontrola.Properties.Resources.resources
+C:\Users\sebas\source\repos\month kalendar kontrola\month kalendar kontrola\obj\Debug\month kalendar kontrola.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\month kalendar kontrola\month kalendar kontrola\obj\Debug\month kalendar kontrola.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\month kalendar kontrola\month kalendar kontrola\obj\Debug\month kalendar kontrola.exe
+C:\Users\sebas\source\repos\month kalendar kontrola\month kalendar kontrola\obj\Debug\month kalendar kontrola.pdb
